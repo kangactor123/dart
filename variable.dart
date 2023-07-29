@@ -56,7 +56,7 @@ void main() {
   // finalInteger = 1;
   // ERROR_MSG = 'CANT!!';
 
-  const DATE_1 = DateTime.now();
+  // const DATE_1 = DateTime.now();
 
   final DATE_2 = DateTime.now();
   print(DATE_2);
